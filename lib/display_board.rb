@@ -1,4 +1,14 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
-display_board = "   |   |   "br"-----------"br"   |   |   "br"-----------"br"   |   |   "
+def display_board 
+  puts "   |   |   ", 
+       "-----------", 
+       "   |   |   ",
+       "-----------",
+       "   |   |   "
+     end 
 
-puts display_board
+
+display_board 
+
+
+
